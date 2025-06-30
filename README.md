@@ -1,16 +1,29 @@
-## Hi there 👋
+<!-- Profile README for ali-elite -->
 
-<!--
-**ali-elite/ali-elite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I%27m+Ali+Ghelichkhani;AI+%26+Software+Engineer;Lifelong+Learner+%F0%9F%92%AB;Backend+%7C+NLP+%7C+Agentic+AI;Welcome+to+my+GitHub+profile!&center=true&width=800&height=45" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/ali-elite">
+    <img src="https://img.shields.io/github/followers/ali-elite?label=Follow&style=social" />
+  </a>
+  <a href="https://linkedin.com/in/ali-ghelichkhani">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ghilichkhaniali@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ali-elite&style=flat-square&color=brightgreen" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+
+```python
+class AliGhelichkhani:
+    languages = ["Persian", "English", "French (A1)"]
+    focus = ["AI Agents", "NLP", "LLMs", "Backend", "Applied Math"]
+    hobbies = ["Coding", "Learning", "Building cool stuff 🚀"]
+```
