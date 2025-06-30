@@ -24,5 +24,5 @@ Let’s build the future together.
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,django,postgres,pytorch,ubuntu,docker" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=python,java,django,postgres,pytorch,ubuntu,docker,huggingface,chatgpt,claudeai,langchain,googlegemini,weaviate" />
 </p>
