@@ -24,5 +24,5 @@ Let’s build the future together.
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,django,postgres,pytorch,docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,django,postgres,pytorch,ubuntu,docker" />
 </p>
