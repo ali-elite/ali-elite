@@ -14,18 +14,18 @@
 
 ---
 
-### 🧑‍💻 About Me
 Hi, I’m Ali – an AI Software Engineer and Entrepreneurship Enthusiast.
 
 I studied Materials Science and Computer Science at Sharif University of Technology and I bring an interdisciplinary perspective to solving modern tech challenges. I’m passionate about designing and building AI-powered products, especially those that leverage ML models, including large language models (LLMs).
 
-My core interests lie in creating intelligent systems that push the boundaries of automation, efficiency, and usability. I strongly believe that the future of technology is shaped by fully automated, adaptive, and intelligent processes, and I enjoy being part of that transformation.
+I strongly believe that the future of technology is shaped by fully **automated** processes, and I enjoy being part of that transformation.
 
 Whether it’s experimenting with new model architectures, deploying scalable AI solutions, or ideating startup concepts, I’m always eager to learn, build, and innovate.
 
 Let’s build the future together.
 
-### 🚀 Tech Stack
+---
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,django,postgres,pytorch,docker" />
 </p>
