@@ -13,8 +13,6 @@
   </a>
   <a href="mailto:ghilichkhaniali@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ali-elite&style=flat-square&color=brightgreen" alt="Profile views" />
 </p>
 
 ---
@@ -23,7 +21,11 @@
 
 ```python
 class AliGhelichkhani:
-    languages = ["Persian", "English", "French (A1)"]
-    focus = ["AI Agents", "NLP", "LLMs", "Backend", "Applied Math"]
-    hobbies = ["Coding", "Learning", "Building cool stuff 🚀"]
+    languages = ["Persian", "English", "French"]
+    focus = ["AI Agents", "NLP", "LLMs", "Django", "RAG"]
+    hobbies = ["Coding", "Learning","Technical Football(Soccer) Analyzing", "Humor Writing", "Guitar"]
 ```
+### 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,pytorch,tensorflow,github,git,linux,aws,redis,vscode" />
+</p>
