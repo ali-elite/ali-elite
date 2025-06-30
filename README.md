@@ -1,7 +1,6 @@
-<!-- Profile README for ali-elite -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I%27m+Ali+Ghelichkhani;AI+%26+Software+Engineer;Lifelong+Learner+%F0%9F%92%AB;Backend+%7C+NLP+%7C+Agentic+AI;Welcome+to+my+GitHub+profile!&center=true&width=800&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I%27m+Ali+Elite;AI+Software+Engineer;Django+%7C+NLP+%7C+Agentic+AI;Welcome+to+my+GitHub+profile!&center=true&width=800&height=45" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,21 +10,22 @@
   <a href="https://linkedin.com/in/ali-ghelichkhani">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ghilichkhaniali@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
+Hi, I’m Ali – an AI Software Engineer and Entrepreneurship Enthusiast.
 
-```python
-class AliGhelichkhani:
-    languages = ["Persian", "English", "French"]
-    focus = ["AI Agents", "NLP", "LLMs", "Django", "RAG"]
-    hobbies = ["Coding", "Learning","Technical Football(Soccer) Analyzing", "Humor Writing", "Guitar"]
-```
+I studied in Materials Science and Computer Science at the academia and I bring an interdisciplinary perspective to solving modern tech challenges. I’m passionate about designing and building AI-powered products, especially those that leverage ML models, including large language models (LLMs).
+
+My core interests lie in creating intelligent systems that push the boundaries of automation, efficiency, and usability. I strongly believe that the future of technology is shaped by fully automated, adaptive, and intelligent processes, and I enjoy being part of that transformation.
+
+Whether it’s experimenting with new model architectures, deploying scalable AI solutions, or ideating startup concepts, I’m always eager to learn, build, and innovate.
+
+Let’s build the future together.
+
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,pytorch,tensorflow,github,git,linux,aws,redis,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,django,postgres,pytorch,docker" />
 </p>
