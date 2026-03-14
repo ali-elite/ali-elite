@@ -1,47 +1,27 @@
-# 👋 Hello, I'm Ali Ghelichkhani
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I%27m+Ali+Elite;AI+Software+Engineer;Django+%7C+NLP+%7C+Agentic+AI;Welcome+to+my+GitHub+profile!&center=true&width=800&height=45" alt="Typing SVG" />
+</p>
 
-### 🚀 AI Engineer | NLP & Multi-Agent Systems Specialist
-**Sharif University of Technology**
-
-I am passionate about building intelligent systems that can reason, interact, and solve complex problems. My work focuses on **Natural Language Processing**, **Machine Learning**, and **Agentic AI Architecture**.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-- **Languages**: Python, Java, SQL, C++, TypeScript
-- **Machine Learning**: PyTorch, Scikit-Learn, NumPy, Pandas, Transformers
-- **Agentic AI**: LangChain, LangGraph, OpenAI Agents SDK, MCP (Model Context Protocol)
-- **Backend & APIs**: FastAPI, Flask, Asyncio, RESTful APIs
-- **Database**: PostgreSQL, SQLite, MongoDB
-- **Tools**: Docker, Git, Linux, Streamlit
+<p align="center">
+  <a href="https://linkedin.com/in/ali-ghelichkhani">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🌟 Featured Projects
+Hi, I’m Ali – an AI Software Engineer and Entrepreneurship Enthusiast.
 
-| Project | Description | Tech Stack |
-|:--- |:--- |:--- |
-| **[Sindibad Ticket Tagging](https://github.com/ali-elite/sindibad-task)** | Intelligent ticket routing service using Agentic AI. | Python, OpenAI SDK, FastAPI |
-| **[Wallex Vision Agent](https://github.com/ali-elite/wallex-vision-task)** | Crypto chatbot with LangGraph & DuckDuckGo integration. | LangGraph, Groq, FastMCP |
-| **[Multi-Agent Hotel Management](https://github.com/ali-elite/parspack-agentic-ai-task)** | Integrated system for reservations and services. | OpenAI Agents SDK, Streamlit |
-| **[Extensive Games Simulator](https://github.com/ali-elite/extensive-games)** | Game Theory simulator for modeling sequential move games. | Python, NetworkX |
-| **[Elite-Torrent](https://github.com/ali-elite/elite-torrent)** | P2P file-sharing network with UDP tracker & TCP peers. | Python, Asyncio |
+I studied Materials Science and Computer Science at Sharif University of Technology and I bring an interdisciplinary perspective to solving modern tech challenges. I know crypto a little bit. I’m passionate about designing and building AI-powered products, especially those that leverage ML models, including large language models (LLMs).
 
----
+I strongly believe that the future of technology is shaped by fully **automated** processes, and I enjoy being part of that transformation.
 
-### 📊 GitHub Stats
+Whether it’s experimenting with new model architectures, deploying scalable AI solutions, or ideating startup concepts, I’m always eager to learn, build, and innovate.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-elite&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-elite&layout=compact&theme=radical)
+Let’s build the future together.
 
 ---
 
-### 📫 Connect with Me
-
-- **Email**: [Work with me](mailto:alighelichkhani@gmail.com)
-- **LinkedIn**: [/in/ali-ghelichkhani](https://linkedin.com/in/ali-ghelichkhani)
-- **GitHub**: [@ali-elite](https://github.com/ali-elite)
-
----
-*“Working with attention. It’s all we need!”*
+<p align="center">
+  <img src="https://skills-icons.vercel.app/api/icons?i=python,java,django,postgres,pytorch,ubuntu,docker,huggingface,chatgpt,claudeai,langchain,googlegemini,weaviate" />
+</p>
