@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I%27m+Ali+Elite;AI+Software+Engineer;Django+%7C+NLP+%7C+Agentic+AI;Welcome+to+my+GitHub+profile!&center=true&width=800&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I%27m+Ali+Ghelichkhani;AI+Software+Engineer;Django+%7C+NLP+%7C+Agentic+AI;Welcome+to+my+GitHub+profile!&center=true&width=800&height=45" alt="Typing SVG" />
 </p>
 
 <p align="center">
